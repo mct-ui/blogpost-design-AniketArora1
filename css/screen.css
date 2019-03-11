@@ -96,7 +96,9 @@ img {
 h1,
 h2,
 h3 {
+    font-family: "Inter UI", "Helvetica Neue", Helvetica, arial, sans-serif;
     color: #17181A
+    padding: 48px 24px 24px;
 }
 
 h1 {
